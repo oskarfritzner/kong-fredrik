@@ -9,12 +9,9 @@ const DisplaySection = ({ imageUrl }) => {
           <div className="flex mt-6 justify-center">
             <Link to={'/meny'}>
             <button className="bg-red-500 text-white py-2 px-6 mr-8 rounded hover:bg-red-600 focus:outline-none focus:ring-2 focus:ring-red-400 focus:ring-opacity-50">
-              Meny
-            </button>
-            </Link>
-            <button className="bg-blue-500 text-white py-2 px-6 rounded hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-50">
               Bestill
             </button>
+            </Link>
           </div>
 
         </div>
