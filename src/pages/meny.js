@@ -1,5 +1,5 @@
 import React from 'react';
-import menuItems from '../data/MenuItems'; 
+import menuItems from '../data/menuItems'; 
 import DisplayItems from '../logic/DisplayMenu';
 import useScrollDetect from "../hooks/useScrollDetect";
 import Navbar from '../components/navbar';
